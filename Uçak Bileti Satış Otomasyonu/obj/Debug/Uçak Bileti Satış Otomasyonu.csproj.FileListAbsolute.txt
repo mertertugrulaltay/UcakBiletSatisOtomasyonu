@@ -1,0 +1,56 @@
+c:\users\mert ertuğrul\documents\visual studio 2015\Projects\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\bin\Debug\Uçak Bileti Satış Otomasyonu.exe.config
+c:\users\mert ertuğrul\documents\visual studio 2015\Projects\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\bin\Debug\Uçak Bileti Satış Otomasyonu.exe
+c:\users\mert ertuğrul\documents\visual studio 2015\Projects\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\bin\Debug\Uçak Bileti Satış Otomasyonu.pdb
+c:\users\mert ertuğrul\documents\visual studio 2015\Projects\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak Bileti Satış Otomasyonu.csprojResolveAssemblyReference.cache
+c:\users\mert ertuğrul\documents\visual studio 2015\Projects\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak_Bileti_Satış_Otomasyonu.Anasayfa.resources
+c:\users\mert ertuğrul\documents\visual studio 2015\Projects\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak_Bileti_Satış_Otomasyonu.Properties.Resources.resources
+c:\users\mert ertuğrul\documents\visual studio 2015\Projects\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak Bileti Satış Otomasyonu.csproj.GenerateResource.Cache
+c:\users\mert ertuğrul\documents\visual studio 2015\Projects\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak Bileti Satış Otomasyonu.exe
+c:\users\mert ertuğrul\documents\visual studio 2015\Projects\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak Bileti Satış Otomasyonu.pdb
+C:\Users\Mert Ertuğrul\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\bin\Debug\Uçak Bileti Satış Otomasyonu.exe.config
+C:\Users\Mert Ertuğrul\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak Bileti Satış Otomasyonu.exe
+C:\Users\Mert Ertuğrul\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak Bileti Satış Otomasyonu.pdb
+C:\Users\Mert Ertuğrul\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\bin\Debug\Uçak Bileti Satış Otomasyonu.exe
+C:\Users\Mert Ertuğrul\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\bin\Debug\Uçak Bileti Satış Otomasyonu.pdb
+C:\Users\Mert Ertuğrul\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak Bileti Satış Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Mert Ertuğrul\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak_Bileti_Satış_Otomasyonu.Properties.Resources.resources
+C:\Users\Mert Ertuğrul\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak Bileti Satış Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Mert Ertuğrul\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak_Bileti_Satış_Otomasyonu.UcusListeleri.resources
+C:\Users\BÖTE\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\bin\Debug\Uçak Bileti Satış Otomasyonu.exe.config
+C:\Users\BÖTE\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak Bileti Satış Otomasyonu.exe
+C:\Users\BÖTE\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak Bileti Satış Otomasyonu.pdb
+C:\Users\BÖTE\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\bin\Debug\Uçak Bileti Satış Otomasyonu.exe
+C:\Users\BÖTE\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\bin\Debug\Uçak Bileti Satış Otomasyonu.pdb
+C:\Users\BÖTE\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak Bileti Satış Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\BÖTE\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak_Bileti_Satış_Otomasyonu.Anasayfa.resources
+C:\Users\BÖTE\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak_Bileti_Satış_Otomasyonu.Properties.Resources.resources
+C:\Users\BÖTE\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak_Bileti_Satış_Otomasyonu.UcusListeleri.resources
+C:\Users\BÖTE\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak Bileti Satış Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\BÖTE\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak_Bileti_Satış_Otomasyonu.UcusSec.resources
+C:\Users\Mert Ertuğrul\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak_Bileti_Satış_Otomasyonu.UcusSec.resources
+C:\Users\Mert Ertuğrul\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak_Bileti_Satış_Otomasyonu.OdemeBilgileri.resources
+C:\Users\Mert Ertuğrul\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak_Bileti_Satış_Otomasyonu.Anasayfa.resources
+C:\Users\BÖTE\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak_Bileti_Satış_Otomasyonu.OdemeBilgileri.resources
+C:\Users\Mert Ertuğrul\Yeni klasör\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\bin\Debug\Uçak Bileti Satış Otomasyonu.exe.config
+C:\Users\Mert Ertuğrul\Yeni klasör\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak Bileti Satış Otomasyonu.exe
+C:\Users\Mert Ertuğrul\Yeni klasör\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak Bileti Satış Otomasyonu.pdb
+C:\Users\Mert Ertuğrul\Yeni klasör\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\bin\Debug\Uçak Bileti Satış Otomasyonu.exe
+C:\Users\Mert Ertuğrul\Yeni klasör\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\bin\Debug\Uçak Bileti Satış Otomasyonu.pdb
+C:\Users\Mert Ertuğrul\Yeni klasör\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak Bileti Satış Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Mert Ertuğrul\Yeni klasör\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak_Bileti_Satış_Otomasyonu.Anasayfa.resources
+C:\Users\Mert Ertuğrul\Yeni klasör\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak_Bileti_Satış_Otomasyonu.OdemeBilgileri.resources
+C:\Users\Mert Ertuğrul\Yeni klasör\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak_Bileti_Satış_Otomasyonu.Properties.Resources.resources
+C:\Users\Mert Ertuğrul\Yeni klasör\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak_Bileti_Satış_Otomasyonu.UcusListeleri.resources
+C:\Users\Mert Ertuğrul\Yeni klasör\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak_Bileti_Satış_Otomasyonu.UcusSec.resources
+C:\Users\Mert Ertuğrul\Yeni klasör\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak Bileti Satış Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Mert Ertuğrul\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak Bileti Satış Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Mert Ertuğrul\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\Mert Ertuğrul\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mert Ertuğrul\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\bin\Debug\System.Data.SQLite.dll
+C:\Users\Mert Ertuğrul\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Mert Ertuğrul\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Mert Ertuğrul\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\Mert Ertuğrul\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mert Ertuğrul\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\bin\Debug\System.Data.SQLite.xml
+C:\Users\Mert Ertuğrul\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Mert Ertuğrul\Desktop\Uçak Bileti Satış Otomasyonu\Uçak Bileti Satış Otomasyonu\obj\Debug\Uçak_Bileti_Satış_Otomasyonu.UcusOzet.resources
