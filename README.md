@@ -1,6 +1,5 @@
 # Uçak Bilet Satış Otomasyonu
 
-
 ### Kullanımı ve Özellikleri:
 
 
