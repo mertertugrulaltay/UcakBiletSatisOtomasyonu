@@ -1,6 +1,4 @@
 # Uçak Bilet Satış Otomasyonu
-C# .NET kullanılarak şehiriçi uçuşlar için detaylı bir şekilde yapmış olduğum uçak bileti satış otomasyonu.
-
 
 
 ### Kullanımı ve Özellikleri:
