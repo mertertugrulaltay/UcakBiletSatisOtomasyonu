@@ -1,5 +1,7 @@
 # Uçak Bilet Satış Otomasyonu
 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/k1ksZK3/1-Anasayfa.png" alt="1-Anasayfa" border="0" /></a> <a href="https://ibb.co/MfLQ5wt"><img src="https://i.ibb.co/PM80zXP/2-Ucus-Listeleri.png" alt="2-Ucus-Listeleri" border="0" /></a>
+
 ### Kullanımı ve Özellikleri:
 
 
@@ -24,3 +26,8 @@
 - Projenin veritabanı dosyaları **bin/Debug** klasörü içindedir.
 
 - **Kullanılan Veritabanı Yönetim Sistemi:** SQLite
+
+
+<a href="https://ibb.co/KG5WLpP"><img src="https://i.ibb.co/pP1dRB7/3-Ucus-Sec.png" alt="3-Ucus-Sec" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/FDqSp98/4-Odeme-Bilgileri.png" alt="4-Odeme-Bilgileri" border="0"></a>
+<a href="https://ibb.co/4JK0Q7X"><img src="https://i.ibb.co/rvFXWmz/5-Ucus-Ozet.png" alt="5-Ucus-Ozet" border="0"></a><br /><a target='_blank' href='https://imgbb.com/upload'></a><br />
