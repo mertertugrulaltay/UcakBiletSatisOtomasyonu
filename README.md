@@ -1,4 +1,4 @@
-# Uçak Bilet Satış Otomasyonu
+# Uçak Bileti Satış Otomasyonu
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/k1ksZK3/1-Anasayfa.png" alt="1-Anasayfa" border="0" /></a> <a href="https://ibb.co/MfLQ5wt"><img src="https://i.ibb.co/PM80zXP/2-Ucus-Listeleri.png" alt="2-Ucus-Listeleri" border="0" /></a>
 
